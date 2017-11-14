@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu>
+	<item>
+		<id>1</id>
+		<name>Рулет с изюмом</name>
+		<weight>75</weight>
+		<price>15</price>
+	</item>
+	
+	<item>
+		<id>2</id>
+		<name>Пирог с повидлом</name>
+		<weight>60</weight>
+		<price>13</price>
+	</item>
+	
+	<item>
+		<id>3</id>
+		<name>Пирог с яблоками</name>
+		<weight>60</weight>
+		<price>13</price>
+	</item>
+	
+	<item>
+		<id>4</id>
+		<name>Салат Изюминка</name>
+		<weight>100</weight>
+		<price>35</price>
+	</item>
+	
+	<item>
+		<id>5</id>
+		<name>Салат Лукошко</name>
+		<weight>100</weight>
+		<price>40</price>
+	</item>
+	
+	<item>
+		<id>6</id>
+		<name>Салат Капустный с помидором</name>
+		<weight>100</weight>
+		<price>19</price>
+	</item>
+	
+	<item>
+		<id>7</id>
+		<name>Суп харчо с говядиной</name>
+		<weight>250</weight>
+		<price>31</price>
+	</item>
+	
+	<item>
+		<id>8</id>
+		<name>Суп куриный с грибами</name>
+		<weight>250</weight>
+		<price>34</price>
+	</item>
+	
+	<item>
+		<id>9</id>
+		<name>Суп болгарский вегетарианский</name>
+		<weight>250</weight>
+		<price>21</price>
+	</item>
+	
+	<item>
+		<id>10</id>
+		<name>Рыбное филе с помидоркой</name>
+		<weight>80</weight>
+		<price>54</price>
+	</item>
+	
+	<item>
+		<id>11</id>
+		<name>Печень  по королевски</name>
+		<weight>150</weight>
+		<price>54</price>
+	</item>
+	
+	<item>
+		<id>12</id>
+		<name>Свинина запеченная "По-гусарски"</name>
+		<weight>80</weight>
+		<price>68</price>
+	</item>
+	
+	<item>
+		<id>13</id>
+		<name>Греча с маслом</name>
+		<weight>170</weight>
+		<price>17</price>
+	</item>
+	
+	<item>
+		<id>14</id>
+		<name>Макароны отварные</name>
+		<weight>170</weight>
+		<price>15</price>
+	</item>
+	
+	<item>
+		<id>15</id>
+		<name>Рис отварной с маслом</name>
+		<weight>170</weight>
+		<price>16</price>
+	</item>
+
+</menu>
